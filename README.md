@@ -1,2 +1,2 @@
-# chatbot_on_tiger
+# Chatbot on tiger
 This chat bot uses cosine similarity to answers queries about tigers
