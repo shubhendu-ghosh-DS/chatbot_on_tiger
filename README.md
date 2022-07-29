@@ -11,8 +11,8 @@
 - random
 
 ## methodology
-This is not a simple AI based chatbot or rule based chatbot. Our psudocode for this chatbot is 
-step 1. we have prebuilt a corpus of information about tigers from different sources
-step 2. we will tokenize the text
-step 3. define a function "answer" inside which a lot of things happen. we use sentence embeddings. and then calculate the cosine similarity between every sentence in the corpus and the query. and get the 10 best sentences. now we use a pretrained text summarizer 'transformer' to summarize the 10 sentences. 
-step 4.
+This is not a simple AI based chatbot or rule based chatbot. Our psudocode for this chatbot is..  
+**step 1.** we have prebuilt a corpus of information about tigers from different sources  
+**step 2.** we will tokenize the text  
+**step 3.** define a function "answer" inside which a lot of things happen. we use sentence embeddings. and then calculate the cosine similarity between every sentence in the corpus and the query. and get the 10 best sentences. now we use a pretrained text summarizer 'transformer' to summarize the 10 sentences.  
+**step 4.**
